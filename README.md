@@ -48,37 +48,6 @@ For additional learning, explore these resources:
 
 ---
 
-## 📂 Repository Overview
-
-### 1. **AI Resources**
-- **Azure AI**: Tutorials on Azure OpenAI, Cognitive Services, and more.
-- **Office AI**: AI use cases for Excel, Teams, and Word.
-- **Microsoft Copilot**: Deep dives into Copilot’s capabilities and limitations.
-- **Competitive AI**: Integrating and combining Microsoft AI with non-Microsoft platforms.
-
-### 2. **Prompts**
-Pre-designed prompts for AI systems, including:
-- ChatGPT: Prompts tailored for Azure, Office, and general productivity.
-- Copilot: Ready-to-use Copilot scenarios for Excel, Word, and Azure.
-
-### 3. **Tools and Scripts**
-Scripts and tools to automate, monitor, and integrate AI workflows:
-- **AI Automation**: Data preparation, chatbot creation, and large-scale processing.
-- **AI Monitoring**: Usage tracking and anomaly detection.
-- **Integrations**: Seamlessly connect AI tools across platforms.
-
-### 4. **Guides and Best Practices**
-- **Ethical AI**: Responsible AI usage, bias detection, and explainability.
-- **AI Productivity**: Maximize efficiency using AI tools.
-- **Advanced AI**: Scaling AI workloads, custom model creation, and AI pipelines.
-
-### 5. **Resources**
-- **Cheat Sheets**: Quick references for Azure AI, Copilot, and prompt design.
-- **Videos**: Tutorials and demos for visual learners.
-- **Case Studies**: Learn from real-world AI implementations in business and education.
-
----
-
 ## 🌟 Featured Content
 
 - **Hybrid AI Workflows**: Combine Azure AI with OpenAI and other platforms for unique solutions.
