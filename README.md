@@ -12,6 +12,42 @@ Welcome to **The Microsoft AI Playbook** – your ultimate guide to harnessing t
 
 ---
 
+## 📂 Microsoft AI Resources in This Repo
+
+| **Category**                | **Description**                                                                 | **Key Resources**                                     |
+|-----------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
+| **AI Resources**            | Guides and use cases for Azure AI, Cognitive Services, and Office AI            | Azure OpenAI setup, Cognitive Services workflows    |
+| **Prompts**                 | Curated prompts for ChatGPT and Copilot to enhance AI workflows                 | ChatGPT prompts for Azure, Excel, Word, Teams       |
+| **AI Automation**           | Scripts and workflows to automate tasks using AI-powered tools                  | PowerShell, Python, Power Automate templates        |
+| **AI Monitoring**           | Tools and techniques for tracking AI performance and reliability                | Azure Monitor, custom logging scripts               |
+| **Integrations**            | AI-driven workflows across Microsoft and third-party platforms                  | Teams bots, Power Platform + AI integrations        |
+| **Guides and Best Practices**| Best practices for ethical AI, productivity, and scaling advanced AI solutions | Ethical AI practices, scaling workloads guides      |
+| **Tools and Scripts**       | Prebuilt scripts for automation, monitoring, and advanced AI use cases          | AI pipeline scripts, monitoring tools               |
+| **Resources**               | Cheat sheets, case studies, and video tutorials to support learning             | AI cheatsheets, case studies for AI implementation  |
+
+---
+
+## 🔗 Explore Key Sections
+
+- **[AI Resources](AI-Resources)**: Tutorials and workflows for Azure AI, Cognitive Services, and Office AI.
+- **[Prompts](Prompts)**: Ready-to-use prompts for ChatGPT and Copilot.
+- **[AI Automation](Tools-and-Scripts/AI-Automation)**: Scripts and examples to automate repetitive tasks.
+- **[AI Monitoring](Tools-and-Scripts/AI-Monitoring)**: Track and optimize AI model performance.
+- **[Integrations](Tools-and-Scripts/Integrations)**: Seamless workflows across Microsoft and third-party tools.
+
+---
+
+## 📘 Official Microsoft Documentation
+
+For additional learning, explore these resources:
+- [Azure Cognitive Services](https://learn.microsoft.com/en-us/azure/cognitive-services/)
+- [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/)
+- [Microsoft 365 Copilot](https://www.microsoft.com/en-us/microsoft-365/copilot)
+- [Power Platform AI Builder](https://learn.microsoft.com/en-us/power-platform/ai-builder/)
+
+
+---
+
 ## 📂 Repository Overview
 
 ### 1. **AI Resources**
